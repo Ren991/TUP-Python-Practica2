@@ -1,5 +1,5 @@
 """Bloque IF, operadores lógicos, función max y operador ternario."""
-
+"primer commit "
 
 def maximo_basico(a: float, b: float) -> float:
     """Toma dos números y devuelve el mayor.
